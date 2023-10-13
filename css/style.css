@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Gabarito:wght@500;700;900&family=Merriweather&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+body {
+	font-family: 'Merriweather', serif; 
+	font-size: 18px; 
+	background-color: white;
+	margin: 0px;
+	margin-bottom: 50px;
+}
+h1, h2, h3, h4 {
+	font-family: 'Gabarito';
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+	color: #48CAE4
+	font-weight: lighter;
+}
+
+p{
+	color: black;
+}
+
+h1, h2, h3, h4, p, .avatar, .btn-blue, a {
+	margin: 30 350px;
+}
+#japan {
+	margin-top: 80px;
+	margin-left: 350px;
+	border-radius: 15px;
+}
+
+h4 {
+	font-size: 20;
+	margin-top: 80px;
+}
+
+#chef {
+	margin-top: 80px;
+	margin-left: 350px;
+	border-radius: 15px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+
+#text-chef {
+	margin-bottom: 20px
+}
+
+#learnmore-btn {
+	margin-bottom: 30px;
+}
+
+a:hover {
+	color: #90E0EF
+}
+
+
+
+
+
+
+
+
+
